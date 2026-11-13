@@ -1,0 +1,6 @@
+{
+  "name": "SMP Negeri 27 Kota Bandung",
+  "description": "Website Resmi SMP Negeri 27 Kota Bandung - Portal Informasi, Prestasi, Akademik, dan Panel Manajemen Sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
